@@ -18,7 +18,7 @@ body {
 	--thm-color: #f2ba28;
 	--thm-black: #0a0a0a;
 	--thm-white: #ffffff;
-	--thm-ase: #afb2bf;
+	--thm-ase: #fb2bf;
 	--thm-gray: #8e8e8e;
 	--thm-f6: #F1F8FF;
 	--thm-fb: #f6f6f6;
@@ -1232,7 +1232,7 @@ button, input, textarea:focus {
 * 04. START ABOUT DESIGN
 * ----------------------------------------------------------------------------------------
 */
-#about .atf-section-title{
+#bout .atf-section-title{
 	margin-bottom:25px;
 }
 .atf-about-btn .atf-themes-btn:before{
@@ -1514,14 +1514,14 @@ ul.listing-style li::before {
 * START COMPANY BRAND LOGO DESIGN  
 * ----------------------------------------------------------------------------------------
 */
-#atf-brand-area {
+#tf-brand-area {
 	background:var(--thm-f6);
 }
-#atf-brand-area .atf-section-padding {
+#tf-brand-area .atf-section-padding {
 	margin-bottom:40px;
 }
 
-#atf-brand-area .owl-controls {
+#tf-brand-area .owl-controls {
 	display:none;
 }
 .atf-brand-active{ text-align: center }
@@ -3502,7 +3502,7 @@ END BLOG DETAILS DESIGN
 * START MAP DESIGN
 * ----------------------------------------------------------------------------------------
 */
-#atf-map-area iframe {
+#tf-map-area iframe {
 	width: 100%;
 	height: 150px;
 	display:block;

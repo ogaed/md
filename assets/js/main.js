@@ -113,7 +113,7 @@ Version      : 1.0.1
 			START SERVICE SLIDER
 			--------------------------------------------------------------*/	
 			
-			$("#atf-home-active").owlCarousel({
+			$("#tf-home-active").owlCarousel({
 				margin:3,
 				nav:false,
 				animateIn: 'fadeIn',
