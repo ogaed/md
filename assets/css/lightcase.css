@@ -6,7 +6,6 @@
      url("../fonts/lightcase.woff") format("woff"),
      url("../fonts/lightcase.ttf") format("truetype"),
      url("../fonts/lightcase.svg") format("svg"); */
-  /* src: url("../fonts/lightcase.eot?55356177#iefix") format("embedded-opentype"), url("../fonts/lightcase.woff?") format("woff"), url("../fonts/lightcase.ttf?") format("truetype"), url("../fonts/lightcase.svg?#lightcase") format("svg"); */
   font-weight: normal;
   font-style: normal;
 }
