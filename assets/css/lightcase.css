@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: 'lightcase';
-  /* src: url("../fonts/lightcase.eot?55356177"); */
+  src: url("../fonts/lightcase.eot") format("embedded-opentype");
   /* src: url("../fonts/lightcase.eot") format("embedded-opentype"),
      url("../fonts/lightcase.woff") format("woff"),
      url("../fonts/lightcase.ttf") format("truetype"),
